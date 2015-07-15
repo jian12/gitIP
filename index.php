@@ -1,2 +1,2 @@
 <?php
-echo "Primeiro teste";
+echo "Primeiro teste alterado!";
